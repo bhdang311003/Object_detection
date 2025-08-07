@@ -30,5 +30,9 @@ streamlit run app.py
 
 - Sau đó, khởi chạy ứng dụng 😍
 
+## 📸 Video demo
+Link: https://screenrec.com/share/zocCWR13YE
+
+
 
 
