@@ -15,14 +15,20 @@
 ## 🧰 Yêu cầu hệ thống
 
 - Python >= 3.8
-- Các thư viện trong `requirements.txt`
+- Các module trong `requirements.txt`
+- Chạy lệnh `pip install -r requirements.txt`
 
 ---
 
-## ⚙️ Cài đặt
+## ⚙️ Triển khai ứng dụng web
 
-1. **Clone hoặc giải nén project**
+- Nếu đã kiểm tra streamlit thành công, hãy mở terminal và chạy:
+```
+streamlit run app.py
+```
+- Mở trình duyệt và truy cập http://localhost:8501/
 
-```bash
-git clone https://github.com/your-username/yolov8-app.git
-cd yolov8-app
+- Sau đó, khởi chạy ứng dụng 😍
+
+
+
